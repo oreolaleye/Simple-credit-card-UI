@@ -1,0 +1,76 @@
+
+
+body{
+	background-color: #e1e1e1;
+	font-family: 'Roboto', sans-serif;
+}
+select, input{
+	border-radius: 5px;
+	border: 1px solid #c1c1c1;
+	color: #c1c1c1; 
+	width: 100%;
+}
+input{
+	font-weight: lighter;
+}
+p{
+	color: #c1c1c1;
+	font-size: 13px;
+}
+i{
+	color: #00457C;
+	font-size: 17px;
+	font-weight: bold;
+}
+.card{
+	margin: 100px auto 0;
+	background-color: #ffffff;
+	height: auto;
+	padding: auto;
+	border-radius: 10px;
+}
+.title{
+	border-bottom: 1px solid #c1c1c1;
+	font-size: 18px;
+	font-weight: bold;
+	padding-bottom: 10px;
+}
+.card-number{
+	margin: 10px 0 0;
+	height: 30px;
+	border-radius: 5px;
+	border: 1px solid #c1c1c1;
+	font-size: 15px;
+}
+.btn-div{
+	text-align: center;
+	padding-bottom: 10px;
+}
+.btn{
+	border-radius: 10px;
+	padding: 10px 80px 7px;
+	margin-top: 15px;
+}
+.proceed-btn{
+	background-color: #4caf50;
+	color: #ffffff;
+}
+.paypal-btn{
+	background-color: #0079C1;
+	color: #ffffff;
+	padding: 10px 50px 7px;
+}
+.month-col{
+	padding-right: 4px;
+}
+.year-col{
+	padding-left: 4px;
+}
+.row{
+	margin-top: 20px;
+}
+.attribution{
+	text-align: center;
+	font-size: 18px;
+	padding-top: 20px;
+}
